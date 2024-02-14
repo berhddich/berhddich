@@ -1,5 +1,5 @@
 # Hi there, I'm Berhiddich Abderrahim 👋
-## Web Developer | Angular | .NET | Ionic
+## Web Developer 
 
 Welcome to my GitHub profile! I'm passionate about creating web applications and exploring new technologies. Currently, I specialize in Angular, .NET, and Ionic, with a strong foundation in C#, JavaScript, CSS, HTML, TypeScript, and Git.
 
